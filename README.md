@@ -3,6 +3,8 @@ The sriptes are based on Pytorch 0.4.0 on Python 2.7.
 
 The paper can be found [here](https://ieeexplore.ieee.org/document/9059947).
 
+Our previous work is also available [here](https://github.com/alansoong200/SR_PET_CNN) on github.
+
 ## Dataset
 
 BrainWeb (Simulated Brain Database):
