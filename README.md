@@ -15,7 +15,9 @@ This code uses:
 - matplotlib 2.2.4
 - numpy 1.16.4
 - scipy 1.2.1
-
+- NVIDIA GPU
+- CUDA 8.0
+- CuDNN 7.1.2
 
 ## Dataset
 
