@@ -1,9 +1,21 @@
 # PET image super-resolution using generative adversarial networks
-The sriptes are based on Pytorch 0.4.0 on Python 2.7.
+Tzu-An Song<sup>1</sup>, Samadrita Roy Chowdhury<sup>1</sup>, Fan Yang<sup>1</sup>, Joyita Dutta<sup>1</sup></br>
+<sup>1</sup>Department of Electrical and Computer Engineering, University of Massachusetts Lowell, Lowell, MA, 01854 USA and co-affiliated with Massachusetts General Hospital, Boston, MA, 02114.
 
-The paper can be found [here](https://ieeexplore.ieee.org/document/9059947).
+The paper can be found [here](https://www.sciencedirect.com/science/article/abs/pii/S0893608020300393?via%3Dihub).
 
 Our previous work is also available [here](https://github.com/alansoong200/SR_PET_CNN) on github.
+
+## Prerequisites
+
+This code uses:
+
+- Python 2.7
+- Pytorch 0.4.0
+- matplotlib 2.2.4
+- numpy 1.16.4
+- scipy 1.2.1
+
 
 ## Dataset
 
