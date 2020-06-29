@@ -1,4 +1,6 @@
 # PET image super-resolution using generative adversarial networks
+The sriptes are based on Pytorch 0.4.0 on Python 2.7.
+The paper can be found [here](https://ieeexplore.ieee.org/document/9059947).
 
 ## Dataset
 
