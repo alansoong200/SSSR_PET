@@ -1,4 +1,3 @@
-#for 2 channels
 import os
 import csv
 from PIL import Image
