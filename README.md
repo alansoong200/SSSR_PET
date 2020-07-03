@@ -37,7 +37,7 @@ Alzheimer’s Disease Neuroimaging Initiative (ADNI) (Clinical Database):
 http://adni.loni.usc.edu/
 
 ## Citation
-If this code inspire you, please cite the paper.
+If this work inspires you, please cite our paper:
 
 	@article{
 		song_pet_2020,
