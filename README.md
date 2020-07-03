@@ -39,20 +39,21 @@ http://adni.loni.usc.edu/
 ## Citation
 If this code inspire you, please cite the paper.
 
-@article{song_pet_2020,
-	title = {{PET} image super-resolution using generative adversarial networks},
-	volume = {125},
-	issn = {0893-6080},
-	url = {http://www.sciencedirect.com/science/article/pii/S0893608020300393},
-	doi = {10.1016/j.neunet.2020.01.029},
-	language = {en},
-	urldate = {2020-07-02},
-	journal = {Neural Networks},
-	author = {Song, Tzu-An and Chowdhury, Samadrita Roy and Yang, Fan and Dutta, Joyita},
-	month = may,
-	year = {2020},
-	keywords = {Super-resolution, CNN, GAN, Multimodality imaging, PET, Self-supervised},
-	pages = {83--91},
+	@article{
+		song_pet_2020,
+		title = {{PET} image super-resolution using generative adversarial networks},
+		volume = {125},
+		issn = {0893-6080},
+		url = {http://www.sciencedirect.com/science/article/pii/S0893608020300393},
+		doi = {10.1016/j.neunet.2020.01.029},
+		language = {en},
+		urldate = {2020-07-02},
+		journal = {Neural Networks},
+		author = {Song, Tzu-An and Chowdhury, Samadrita Roy and Yang, Fan and Dutta, Joyita},
+		month = may,
+		year = {2020},
+		keywords = {Super-resolution, CNN, GAN, Multimodality imaging, PET, Self-supervised},
+		pages = {83--91},
 	}
 }
 
