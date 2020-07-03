@@ -14,6 +14,7 @@ The paper can be found [here](https://www.sciencedirect.com/science/article/abs/
 
 Our previous work is also available [here](https://github.com/alansoong200/SR_PET_CNN) on github.
 
+
 ## Prerequisites
 
 This code uses:
@@ -34,6 +35,26 @@ https://brainweb.bic.mni.mcgill.ca/brainweb/
 
 Alzheimer’s Disease Neuroimaging Initiative (ADNI) (Clinical Database):
 http://adni.loni.usc.edu/
+
+## Citation
+If this code inspire you, please cite the paper.
+
+@article{song_pet_2020,
+	title = {{PET} image super-resolution using generative adversarial networks},
+	volume = {125},
+	issn = {0893-6080},
+	url = {http://www.sciencedirect.com/science/article/pii/S0893608020300393},
+	doi = {10.1016/j.neunet.2020.01.029},
+	language = {en},
+	urldate = {2020-07-02},
+	journal = {Neural Networks},
+	author = {Song, Tzu-An and Chowdhury, Samadrita Roy and Yang, Fan and Dutta, Joyita},
+	month = may,
+	year = {2020},
+	keywords = {Super-resolution, CNN, GAN, Multimodality imaging, PET, Self-supervised},
+	pages = {83--91},
+	file = {ScienceDirect Full Text PDF:C\:\\Users\\Samadrita\\Zotero\\storage\\UDWVL3W4\\Song et al. - 2020 - PET image super-resolution using generative advers.pdf:application/pdf;ScienceDirect Snapshot:C\:\\Users\\Samadrita\\Zotero\\storage\\MSUV23CV\\S0893608020300393.html:text/html}
+}
 
 ## UMASS_LOWELL_BIDSLab
 Biomedical Imaging & Data Science Laboratory
