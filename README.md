@@ -53,7 +53,7 @@ If this code inspire you, please cite the paper.
 	year = {2020},
 	keywords = {Super-resolution, CNN, GAN, Multimodality imaging, PET, Self-supervised},
 	pages = {83--91},
-	file = {ScienceDirect Full Text PDF:C\:\\Users\\Samadrita\\Zotero\\storage\\UDWVL3W4\\Song et al. - 2020 - PET image super-resolution using generative advers.pdf:application/pdf;ScienceDirect Snapshot:C\:\\Users\\Samadrita\\Zotero\\storage\\MSUV23CV\\S0893608020300393.html:text/html}
+	}
 }
 
 ## UMASS_LOWELL_BIDSLab
